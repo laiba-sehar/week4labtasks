@@ -1,0 +1,48 @@
+#include<iostream>
+using namespace std;
+void printname(string name);
+main()
+{
+string name=Ali
+printname(name);
+
+
+}
+void printname(string name)
+{
+cout<<"MY name is :"<<name;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
